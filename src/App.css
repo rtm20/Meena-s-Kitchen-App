@@ -1,0 +1,84 @@
+.row-header{
+    margin:0px auto;
+    padding:0px auto;
+}
+
+.row-content {
+    margin:0px auto;
+    padding: 50px 0px 50px 0px;
+    border-bottom: 1px ridge;
+    min-height:400px;
+}
+
+.footer{
+    background-color: #c8d3d3;
+    margin:0px auto;
+    padding: 20px 0px 20px 0px;
+}
+.jumbotron {
+    padding:40px 30px 30px 30px;
+    margin:0px auto;
+    background: #e4e4e4 ;
+    color:rgb(87, 58, 0);
+}
+.custom{
+    padding-left: 340px;
+    padding-top: 20px;
+}
+.pad{
+    padding-top: 20px;
+}
+.paded{
+    padding-top: 20px;
+    padding-left: 10px;
+    margin-left: 100px;
+}
+
+address{
+    font-size:80%;
+    margin:0px;
+    color:#a15b00;
+}
+
+.navbar-dark {
+    background-color: #c01355;
+}
+
+.page-enter {
+    opacity: 0.01;
+    transform: translateX(-100%);
+}
+
+.page-enter-active {
+    opacity: 1;
+    transform: translateX(0%);
+    transition: all 300ms ease-in;
+}
+
+.page-exit {
+    opacity: 1;
+    transform: translateX(0%);
+}
+
+.page-exit-active {
+    opacity: 0.01;
+    transform: translateX(100%);
+    transition: all 300ms ease-out;
+}
+
+.bgimage {
+    background-image: url("image.jpg");
+    background-color: black;
+    image-orientation: initial;
+
+  }
+.all{
+background-color: rgb(243, 243, 243);
+  }
+
+.alldark{
+    background-color: rgb(255, 255, 255);
+      }
+.allmenu{
+    background-color: rgb(14, 11, 11);
+      }
