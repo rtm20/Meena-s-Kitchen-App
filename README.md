@@ -1,5 +1,7 @@
 # Meena-s-Kitchen-App
-A Website for Restaurant build over React js &amp; Redux. 
+# React-js, Redux, Node-js, Heroku
+
+A Website for Rajasthani Restaurant build over React js &amp; Redux. 
 
 ##--Steps to Run the React-Redux application :
 
