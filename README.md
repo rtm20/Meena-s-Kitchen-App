@@ -1,5 +1,5 @@
 # Meena-s-Kitchen-App -> https://meena-s-kitchen.web.app/home
-# React-js, Redux, Node-js, Heroku
+# React-js, Redux, Node-js, Heroku, Firebase
 
 A Website for Rajasthani Restaurant build over React js &amp; Redux. 
 
